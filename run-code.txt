@@ -1,0 +1,1 @@
+python3 contribute.py --max_commits=21 --frequency=90 --days_before=10 --days_after=3 --repository=git@github.com:edunomatseye/activities.git
